@@ -1,0 +1,3 @@
+[submodule "store"]
+	path = store
+	url = https://github.com/dockstudio/dockstudio/tree/store
